@@ -1,0 +1,8 @@
+{
+  "name": "TaskFlow Pro",
+  "description": "A high-performance productivity and task management application with AI-powered insights, calendar integration, and detailed progress tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
